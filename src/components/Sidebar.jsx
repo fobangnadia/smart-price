@@ -35,6 +35,7 @@ export default function Sidebar() {
       <div className="sidebar-footer">
         <NavLink to="#" className="nav-link">⚙️ Settings</NavLink>
         <NavLink to="#" className="nav-link">❓ Help & Support</NavLink>
+        
       </div>
     </div>
   );
